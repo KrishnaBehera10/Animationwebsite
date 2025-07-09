@@ -139,14 +139,14 @@ function Page() {
             <img
               src="https://works.studio/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F136349%2F1728929074-works_essentials-identity_thumbnail-1.jpg&w=768&q=96"
               alt=""
-              className="object-contain"
+              className="object-cover"
             />
           </div>
 
           <img
             src="https://works.studio/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F136349%2F1749820683-works_essentials-identity_thumbnail.jpg&w=1024&q=96"
             alt=""
-            className="object-cover"
+            className="object-contain"
           />
           <p id="title" className="text-2xl py-1">
             Fear of God <br />
