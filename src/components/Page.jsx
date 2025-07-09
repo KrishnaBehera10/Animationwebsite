@@ -139,7 +139,7 @@ function Page() {
             <img
               src="https://works.studio/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F136349%2F1728929074-works_essentials-identity_thumbnail-1.jpg&w=768&q=96"
               alt=""
-              className="object-cover"
+              className="w-full h-full object-cover"
             />
           </div>
 
@@ -387,13 +387,13 @@ function Page() {
       </div>
 
       <div className="relative w-full">
-        <div className="w-full flex gap-5 flex-wrap justify-between bg-yellow-300 absolute left-0 bottom-0 p-5">
+        <div className="w-full flex gap-5 flex-wrap sm:flex-none justify-between bg-yellow-300 absolute left-0 bottom-0 p-5">
           <div className="text-sm">
             <h1>New York City</h1>
             <p>{time}</p>
           </div>
 
-          <div className="flex gap-5 flex-col flex-1">
+          <div className="flex gap-5 flex-col sm:w-1/3 w-full">
             <div className="flex justify-between gap-5">
               <div className="text-sm">
                 <p>Projects</p>
