@@ -1,4 +1,4 @@
-##🌟 Animation Website using GSAP
+🌟 Animation Website using GSAP
 
 
 🎬 Overview
