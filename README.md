@@ -1,12 +1,25 @@
-# React + Vite
+🌟 ##Animation Website using GSAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🎬 Overview
+This project is a modern animated landing page built with HTML, CSS, JavaScript, and GSAP (GreenSock Animation Platform). The goal is to create a smooth and interactive experience with scroll-based and entrance animations that bring the web elements to life.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💡 ##Features
+Smooth entrance animations for text and images
 
-## Expanding the ESLint configuration
+Scroll-triggered animations using GSAP ScrollTrigger
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive transitions and effects
+
+Responsive layout for various screen sizes
+
+Fast and visually appealing user experience
+
+⚙️ ##Technologies Used
+HTML – Structure of the webpage
+
+CSS – Styling and responsive layout
+
+JavaScript – Functionality and interactivity
+
+GSAP – Animation library used for timeline and scroll effects
